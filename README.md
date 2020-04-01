@@ -1,2 +1,3 @@
-# poc-istio
-This is simple poc using Istio
+# Overview
+
+This is a poc using [Istio](https://istio.io/)
